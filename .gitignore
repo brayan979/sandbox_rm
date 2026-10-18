@@ -1,0 +1,5 @@
+service_account.json
+Dockerfile
+.dockerignore
+docker-compose.yaml
+.env
